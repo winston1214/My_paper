@@ -1,5 +1,3 @@
-# My_paper
-
 ## KCC2021 Conference
 - ### Pedestrian Accident Prevention Model Using Deep Learning and Optical Flow
 
