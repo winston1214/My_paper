@@ -1,5 +1,10 @@
+## KCI
+- **A Study of Tram-Pedestrian Collision Prediction Method Using YOLOv5 and Motion Vector**
+
+**YoungMin Kim**, Hyeon-Uk An, HeeGyun Jeon, GyuJin Jang, JinPyeon Kim, HyeonChyeol Hwang
+
 ## KCC2021 Conference
-- ### Pedestrian Accident Prevention Model Using Deep Learning and Optical Flow
+- **Pedestrian Accident Prevention Model Using Deep Learning and Optical Flow**
 
 **YoungMin Kim**, GyuJin Jang, HyunJai Bae, YoungNam Kim, JinPyung Kim
 
