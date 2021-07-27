@@ -4,9 +4,11 @@
 **YoungMin Kim**, Hyeon-Uk An, HeeGyun Jeon, GyuJin Jang, JinPyeon Kim, HyeonChyeol Hwang
 
 ## KCC2021 Conference
-- **Pedestrian Accident Prevention Model Using Deep Learning and Optical Flow**
+- **Pedestrian Accident Prevention Model Using Deep Learning and Optical Flow** 
 
 **YoungMin Kim**, GyuJin Jang, HyunJai Bae, YoungNam Kim, JinPyung Kim
+
+**Best Paper (First Prize 2nd)**
 
 - **Deep Learning based Multiple Damage Type Detection System for Bridge Structures**
 
