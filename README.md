@@ -8,7 +8,7 @@
 
 **YoungMin Kim**, GyuJin Jang, HyunJai Bae, YoungNam Kim, JinPyung Kim
 
-**Best Paper (First Prize)** 🥈
+**Best Paper (First Prize)** 🥇
 
 - **Deep Learning based Multiple Damage Type Detection System for Bridge Structures**
 
