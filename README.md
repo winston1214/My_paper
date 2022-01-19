@@ -1,3 +1,5 @@
+<div align="center"><a href='https://scholar.google.com/citations?user=0_3A0Z4AAAAJ&hl=ko'><b>🧑Google Scholar Profile🧑</b></a></div>
+
 ## KCI
 - <a href='https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002797297'>**A Study of Tram-Pedestrian Collision Prediction Method Using YOLOv5 and Motion Vector**</a>
 
