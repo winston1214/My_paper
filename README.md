@@ -1,5 +1,5 @@
 ## KCI
-- **A Study of Tram-Pedestrian Collision Prediction Method Using YOLOv5 and Motion Vector**
+- <a href='https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002797297'>**A Study of Tram-Pedestrian Collision Prediction Method Using YOLOv5 and Motion Vector**</a>
 
 **YoungMin Kim**, Hyeon-Uk An, HeeGyun Jeon, GyuJin Jang, JinPyeon Kim, HyeonChyeol Hwang
 
