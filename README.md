@@ -1,5 +1,14 @@
 <div align="center"><a href='https://scholar.google.com/citations?user=0_3A0Z4AAAAJ&hl=ko'><b>🧑Google Scholar Profile🧑</b></a></div>
 
+
+---
+# Until Undergraduate
+## Sensors
+- <a href=''>**Preprocessing for Keypoint based Sign Language Translation without Glosses**</a>
+
+## IEEE BigData Conference 2022
+- <a href='https://ieeexplore.ieee.org/abstract/document/10020472'>**A 2-Stage Model for Vehicle Class and Orientation Detection with Photo-Realistic Image Generation**</a>
+
 ## KCI
 - <a href='https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002797297'>**A Study of Tram-Pedestrian Collision Prediction Method Using YOLOv5 and Motion Vector**</a>
 
